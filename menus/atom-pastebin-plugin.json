@@ -4,7 +4,11 @@
       {
         "label": "Create Paste",
         "command": "atom-pastebin-plugin:createPaste"
-      }
+    },
+    {
+        "label": "Insert Paste",
+        "command": "atom-pastebin-plugin:insertPaste"
+    }
     ]
   },
   "menu": [
@@ -17,7 +21,11 @@
             {
               "label": "Create Paste",
               "command": "atom-pastebin-plugin:createPaste"
-            }
+          },
+          {
+              "label": "Insert Paste",
+              "command": "atom-pastebin-plugin:insertPaste"
+          }
           ]
         }
       ]
