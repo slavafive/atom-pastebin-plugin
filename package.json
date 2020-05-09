@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "atom-pastebin-plugin:toggle"
+    "atom-workspace": "atom-pastebin-plugin:createPaste"
   },
   "repository": "https://github.com/atom/atom-pastebin-plugin",
   "license": "MIT",
