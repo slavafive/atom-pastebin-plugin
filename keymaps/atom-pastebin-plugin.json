@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-c": "atom-pastebin-plugin:createPaste"
+    "ctrl-alt-c": "atom-pastebin-plugin:createPaste",
+    "ctrl-alt-i": "atom-pastebin-plugin:insertPaste"
   }
 }
