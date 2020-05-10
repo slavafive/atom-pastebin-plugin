@@ -2,9 +2,13 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-pastebin-plugin",
-        "command": "atom-pastebin-plugin:toggle"
-      }
+        "label": "Create Paste",
+        "command": "atom-pastebin-plugin:createPaste"
+    },
+    {
+        "label": "Insert Paste",
+        "command": "atom-pastebin-plugin:insertPaste"
+    }
     ]
   },
   "menu": [
@@ -12,12 +16,16 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-pastebin-plugin",
+          "label": "Pastebin",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-pastebin-plugin:toggle"
-            }
+              "label": "Create Paste",
+              "command": "atom-pastebin-plugin:createPaste"
+          },
+          {
+              "label": "Insert Paste",
+              "command": "atom-pastebin-plugin:insertPaste"
+          }
           ]
         }
       ]
