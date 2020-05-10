@@ -2,7 +2,7 @@
   "name": "atom-pastebin-plugin",
   "main": "./lib/atom-pastebin-plugin",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "This plugin integrates Pastebin service into Atom IDE. It can automatically create new pastes by selecting a code fragment in your editor and insert code by paste ID or corresponding URL",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
