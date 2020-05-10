@@ -1,7 +1,7 @@
 {
   "name": "Paste-Creator-and-Inserter",
   "main": "./lib/atom-pastebin-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This plugin integrates Pastebin service into Atom IDE. It can automatically create new pastes by selecting a code fragment in your editor and insert code by paste ID or corresponding URL",
   "keywords": [],
   "activationCommands": {
