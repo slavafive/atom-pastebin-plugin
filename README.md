@@ -1,6 +1,6 @@
 # Paste Creator and Inserter
 
-This plugin integrates Pastebin service into Atom IDE. It can automatically create new pastes by selecting a code fragment in your editor and insert code by paste ID or corresponding URL.
+This lightweight plugin integrates Pastebin service into Atom IDE. It can automatically create new pastes by selecting a code fragment in your editor and insert code by paste ID or corresponding URL.
 
 :star: Designed by Vyacheslav Efimov and Denis Fevralyov
 
